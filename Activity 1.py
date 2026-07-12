@@ -26,4 +26,4 @@ temp=price
 price=quantity
 quantity=temp
 print(price)
-print(quantity)
+print(quantityf)
